@@ -239,3 +239,4 @@
 0.0.0.0 static.whatsapp.net
 0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 media.fqls2-1.fna.whatsapp.net
+^(.*\.)*(apple-dns|apple|icloud|aaplimg|itunes|idms-apple|akadns|edgekey|edgesuite|apple-livephotoskit|icloud-sandbox|icloud-content|apple-cloudkit|mzstatic|cdn-apple)\.([a-z]{2,3}\.)*[a-z]{2,6}$
