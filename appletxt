@@ -307,6 +307,6 @@
 ||tr.iadsdk.apple.com^
 ||ut.iadsdk.apple.com^
 ||vp2pass-dev.iad.apple.com^
-|xp-cdn.apple.com^
-|xp.apple.com.edgekey.net^
+||xp-cdn.apple.com^
+||xp.apple.com.edgekey.net^
 ^(.*\.)*(apple-dns|apple|icloud|aaplimg|itunes|idms-apple|akadns|edgekey|edgesuite|apple-livephotoskit|icloud-sandbox|icloud-content|apple-cloudkit|mzstatic|cdn-apple)\.([a-z]{2,3}\.)*[a-z]{2,6}$
